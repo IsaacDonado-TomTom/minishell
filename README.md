@@ -1,6 +1,12 @@
 # minishell
 Group project: The objective of this project is for you to create a simple shell.  (usernames on 42 intra: lwray &amp; idonado)
 
+To Launch:
+```bash
+make
+./minishell
+```
+
 # Allowed functions descriptions
 ### readline()
 syntax: char *readline(const char *prompt)
